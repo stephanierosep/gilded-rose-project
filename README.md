@@ -1,5 +1,7 @@
 # Gilded Rose Project
 
+*[This project is also on Diode.](https://diode.makersacademy.com/students/neoeno/projects/1732)*
+
 This is a project and set of resources designed to help you learn good object
 oriented design principles.
 
