@@ -55,7 +55,8 @@ never alters.
 If you would like to get more practice writing tests or an extra challenge, go
 ahead and delete the contents of `spec/gilded_rose_spec.rb`. You can then write
 your own tests. Note that this won't be good practice for test-driven
-development, but you will still much about testing legacy code in the process.
+development as the code is already written, but you will still learn much about
+testing legacy code in the process.
 
 ### Refactor the project
 
