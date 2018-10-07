@@ -102,7 +102,7 @@ from this exercise
 
 In the rough order you might want to try to cover them.
 
-* What is well-designed code?
+* [What makes well-designed code?](https://github.com/makersacademy/course/blob/master/pills/what_makes_well_designed_code.md)
 * Using [Domain Model Diagramming](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming) to help you design programs (this is a workshop, but you can cover it without a coach too)
 * Designing for [high cohesion using encapsulation](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md).
 * Using [Forwarding & Polymorphism](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md) to reduce coupling.
