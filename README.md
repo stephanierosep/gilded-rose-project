@@ -1,4 +1,4 @@
-# Gilded Rose Project
+# Gilded Rose Project
 
 This is a project and set of resources designed to help you learn good object
 oriented design principles.
@@ -57,7 +57,7 @@ ahead and delete the contents of `spec/gilded_rose_spec.rb`. You can then write
 your own tests. Note that this won't be good practice for test-driven
 development, but you will still much about testing legacy code in the process.
 
-### Refactor the project
+### Refactor the project
 
 Right now, the project is very hard to change — not a good thing for software.
 To make life easier for yourself, you should refactor it to make it easier to
@@ -91,7 +91,7 @@ While you are waiting for feedback, use the time however you think best — for
 example to review some of the material below. It may take up to a day for
 someone to get back to you.
 
-### Keep going
+### Keep going
 
 Improve the design, implement the new feature, get feedback — and keep going
 until next week or until a coach tells you you've learned everything you can
