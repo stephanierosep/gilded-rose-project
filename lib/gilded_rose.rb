@@ -9,8 +9,8 @@ SULFURAS = 80
     @special_items = [
       "Aged Brie",
       "Backstage passes to a TAFKAL80ETC concert",
-      "Sulfuras, Hand of Ragnaros", 
-      "Conjoured"
+      "Sulfuras, Hand of Ragnaros",
+      "Conjured"
     ]
   end
 
@@ -76,8 +76,8 @@ SULFURAS = 80
         return update_aged_brie(item)
       end
 
-      if item.name == "Conjoured"
-        return conjoured_item(item)
+      if item.name == "Conjured"
+        return conjured_item(item)
       end
 
       if !@special_items.include?(item.name)
